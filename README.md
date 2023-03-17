@@ -1,5 +1,5 @@
 ## Intro
-Associate Software Engineer specializing in blockchain & web 3 technologies.
+Software Engineer using tools to automate life.
 
 ## Profiles
 1. Portfolio: https://eqan.github.io/
