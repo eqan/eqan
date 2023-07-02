@@ -9,6 +9,12 @@ Software Engineer using tools to automate life.
 5. Fiverr: https://www.fiverr.com/eqanahmad?up_rollout=true
 6. Leetcode: https://leetcode.com/eqan/
 7. Hackerrank: https://www.hackerrank.com/eqanahmad123
+   
+## Experiences
+1. Stable Diffusion - Cloud Computing and Full Stack Engineer - Python, Docker, OpenStack, Nextjs, Shell Scripting etc
+2. Canadian College for Higher Studies - Blockchain Instructor
+3. Microslush - Associate Software Engineer - Blockchain, Full Stack Development
+4. Netixsol - MERN and Blockchain Internee
 
 ## Resume:
 https://eqanresume.vercel.app
