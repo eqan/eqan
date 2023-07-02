@@ -6,7 +6,9 @@ Software Engineer using tools to automate life.
 2. LinkedIn: https://www.linkedin.com/in/eqanahmad/
 3. Behance: https://www.behance.net/eqanahmad
 4. Turing: https://matching.turing.com/developer-resume/e33b2811187a52e4c7f0b3c57b2444a52e92814da03b98
-5. Freelance: https://www.fiverr.com/eqanahmad?up_rollout=true
+5. Fiverr: https://www.fiverr.com/eqanahmad?up_rollout=true
+6. Leetcode: https://leetcode.com/eqan/
+7. Hackerrank: https://www.hackerrank.com/eqanahmad123
 
 ## Resume:
 https://eqanresume.vercel.app
