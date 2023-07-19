@@ -16,7 +16,7 @@ Software Engineer using tools to automate life.
 3. Microslush - Associate Software Engineer - Blockchain, Full Stack Development
 4. Netixsol - MERN and Blockchain Internee
 
-## Resume:
+## Resume
 https://eqanresume.vercel.app
 
 ## My Github Stats
