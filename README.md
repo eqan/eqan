@@ -11,9 +11,9 @@ Software Engineer using tools to automate life.
 7. Hackerrank: https://www.hackerrank.com/eqanahmad123
    
 ## Experiences
-1. Stable Diffusion - Cloud Computing and Full Stack Engineer - Python, Docker, OpenStack, Nextjs, Shell Scripting etc
-2. Canadian College for Higher Studies - Blockchain Instructor
-3. Microslush - Associate Software Engineer - Blockchain, Full Stack Development
+1. [Stable Diffusion](https://github.com/EqanSDAPI) - Cloud Computing and Full Stack Engineer - Python, Docker, OpenStack, Nextjs, Shell Scripting etc
+2. [Canadian College for Higher Studies](https://thecanadiancollege.ca/blockchain-technology-for-beginners-bootcamp/) - Blockchain Instructor
+3. [Microslush](https://github.com/4xPip) - Associate Software Engineer - Blockchain, Full Stack Development
 4. Netixsol - MERN and Blockchain Internee
 
 ## Resume
