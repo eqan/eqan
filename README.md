@@ -17,6 +17,10 @@ Software Engineer using tools to automate life.
 3. [Microslush](https://github.com/4xPip) - Associate Software Engineer - Blockchain, Full Stack Development
 4. Netixsol - MERN and Blockchain Internee
 
+## Consultancy
+1. TopMate.io: https://topmate.io/eqan
+2. GuidePoint
+
 ## Resume
 https://eqanresume.vercel.app
 
@@ -24,7 +28,13 @@ https://eqanresume.vercel.app
 1. Stable Diffusion: https://github.com/EqanSDAPI
 
 ## Closed Source Projects:
-1. NUCES BLOCKED[A platform aimed to generate and decentralize verified academic portfolios worldwide][NEXT.JS - REACT - GRAPHQL - POSTGRES - TYPEORM - NEST.JS - SOLIDITY - REMIX - HARDHAT - POSTMAN - APPOLO - PYTHON - SELENIUM - IPFS - ETHERSPROJECT - VERCEL - REACT.PDF]: https://nuces-blocked-frontend.vercel.app/nuces-blocked/landing/ 
+1. NUCES BLOCKED[A platform aimed to generate and decentralize verified academic portfolios worldwide][NEXT.JS - REACT - GRAPHQL - POSTGRES - TYPEORM - NEST.JS - SOLIDITY - REMIX - HARDHAT - POSTMAN - APPOLO - PYTHON - SELENIUM - IPFS - ETHERSPROJECT - VERCEL - REACT.PDF]: https://nuces-blocked-frontend.vercel.app/nuces-blocked/landing/
+
+## Support Me:
+1. Pateon: https://patreon.com/eqan
+2. Crypto[Tron USDT]: TU9zwfEAMKYsg5LfR4FbZnBjhHmC5vmeEE
+3. Crypto[Ethereum ERC20]: 0x0eb2ee8ab45635cc2aea598f9968a93c550450e9
+4. Crypto[Bitcoin BTC]: 1FkAiAAbEgb69gqrZtSr3Ew7dsnmTaUwen
 
 ## My Github Stats
 [![](https://raw.githubusercontent.com/eqan/eqan/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
