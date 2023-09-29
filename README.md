@@ -20,6 +20,7 @@ Software Engineer using tools to automate life.
 ## Consultancy
 1. TopMate.io: https://topmate.io/eqan
 2. GuidePoint
+3. AlpbaSights
 
 ## Resume
 https://eqanresume.vercel.app
