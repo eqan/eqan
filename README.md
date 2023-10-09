@@ -18,9 +18,11 @@ Software Engineer using tools to automate life.
 4. Netixsol - MERN and Blockchain Internee
 
 ## Consultancy
-1. TopMate.io: https://topmate.io/eqan
-2. GuidePoint
-3. AlpbaSights
+1. Personal Consultancy: Just email or dm me i'm available for 1 on 1 Session on career counselling, freelancing, resume reviews, software engineering and
+   how to scale products to 1 Million+ Users.
+3. TopMate.io: https://topmate.io/eqan
+4. GuidePoint
+5. AlpbaSights
 
 ## Resume
 https://eqanresume.vercel.app
