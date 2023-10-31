@@ -20,7 +20,7 @@ Software Engineer using tools to automate life.
    Nextjs, Reactjs, HTML, CSS, Adobe XD, Typescript/Javascript
 
 2. Backend:
-   Python, Nodejs/Nestjs, FAST API, SQL Alchemy, TypeORM, Typescript/Javascript, Postgres, Alembic, ASP.NET, Entity Framework, .NET Linux, SISH, Cloudflare, Parrallel Processing and GPU's,    GraphQL, REST API's
+   Python, Nodejs/Nestjs, FAST API, SQL Alchemy, TypeORM, Typescript/Javascript, Postgres, Alembic, ASP.NET, Entity Framework, .NET, Linux, SISH, Cloudflare, Parrallel Processing and GPU's,    GraphQL, REST API's
 
 3. Blockchain:
    Solidity, Remix, Clarity, Ethersjs, hardhat
