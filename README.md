@@ -33,6 +33,7 @@ https://eqanresume.vercel.app
 
 ## Other Github Profiles[Companies]
 1. Stable Diffusion: https://github.com/EqanSDAPI
+2. Models Lab: https://github.com/eqanModelsLab
 
 ## Closed Source Projects:
 1. NUCES BLOCKED[A platform aimed to generate and decentralize verified academic portfolios worldwide][NEXT.JS - REACT - GRAPHQL - POSTGRES - TYPEORM - NEST.JS - SOLIDITY - REMIX - HARDHAT - POSTMAN - APPOLO - PYTHON - SELENIUM - IPFS - ETHERSPROJECT - VERCEL - REACT.PDF]: https://nuces-blocked-frontend.vercel.app/nuces-blocked/landing/
