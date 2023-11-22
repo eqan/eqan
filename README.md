@@ -17,7 +17,7 @@ Software Engineer using tools to automate life.
 
 ## Tech Stack Experiences
 1. Frontend:
-   Nextjs, Reactjs, HTML, CSS, Adobe XD, Typescript/Javascript
+   Nextjs, Redux Tool Kit, Reactjs, HTML, CSS, Adobe XD, Typescript/Javascript, Prime React, PrimeFlexCSS[Similar to Tailwind], Scss
 
 2. Backend:
    Python, Nodejs/Nestjs, FAST API, SQL Alchemy, TypeORM, Typescript/Javascript, Postgres, Alembic, ASP.NET, Entity Framework, .NET, Linux, SISH, Cloudflare, Parrallel Processing and GPU's,    GraphQL, REST API's
