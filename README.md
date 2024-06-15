@@ -19,12 +19,14 @@ Software Engineer using tools to automate life.
    Nextjs, Redux Tool Kit, Reactjs, HTML, CSS, Adobe XD, Typescript/Javascript, Prime React, PrimeFlexCSS[Similar to Tailwind], Scss
 
 2. Backend:
-   Python, Nodejs/Nestjs, FAST API, SQL Alchemy, TypeORM, Typescript/Javascript, Postgres, Alembic, ASP.NET, Entity Framework, .NET, Linux, SISH, Cloudflare, Parrallel Processing and GPU's,    GraphQL, REST API's
+   Python, Nodejs/Nestjs, FAST API, SQL Alchemy, TypeORM, Typescript/Javascript, Postgres, Alembic, ASP.NET, Entity Framework, .NET, Linux, SISH, Cloudflare, Parrallel Processing and GPU's, Redis,GraphQL, REST API's
+   
+4. Docker, Cloudflared, GCP, AWS, Azure
 
-3. Blockchain:
+4. Blockchain:
    Solidity, Remix, Clarity, Ethersjs, hardhat
 
-4. Testing:
+5. Testing:
    Selenium, Robotframework, Postman
 
 ## Resume
