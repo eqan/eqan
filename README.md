@@ -10,7 +10,7 @@ Software Engineer using tools to automate life.
 6. Hackerrank: https://www.hackerrank.com/eqanahmad123
    
 ## Experiences
-1. [Meteo-In](https://meteo-in.com/) - CEO Of MeteoIn
+1. [Meteo-In](https://meteo-in.com/) - Co-Founder Meteo In
 2. [Stable Diffusion](https://github.com/EqanSDAPI) - Cloud Computing and Full Stack Engineer - Python, Docker, OpenStack, Nextjs, Shell Scripting etc
 3. [Canadian College for Higher Studies](https://thecanadiancollege.ca/blockchain-technology-for-beginners-bootcamp/) - Blockchain Instructor
 4. [Microslush](https://github.com/4xPip) - Associate Software Engineer - Blockchain, Full Stack Development
