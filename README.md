@@ -33,7 +33,7 @@ Software Engineer using tools to automate life.
    Selenium, Robotframework, Postman
 
 ## Resume
-https://eqanresume.vercel.app
+[https://flowcv.com/resume/umfmrvquku](https://flowcv.com/resume/umfmrvquku)
 
 ## Other Github Profiles[Companies]
 1. Stable Diffusion: https://github.com/EqanSDAPI
