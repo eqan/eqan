@@ -2,7 +2,7 @@
 Software Engineer using tools to automate life.
 
 ## Profiles
-1. Portfolio: https://eqan.github.io/
+1. Portfolio: https://eqanahmad.com/
 2. LinkedIn: https://www.linkedin.com/in/eqanahmad/
 3. Behance: https://www.behance.net/eqanahmad
 4. Turing: https://matching.turing.com/developer-resume/e33b2811187a52e4c7f0b3c57b2444a52e92814da03b98
