@@ -18,28 +18,22 @@ Software Engineer using tools to automate life.
 6. [Upwork](https://www.upwork.com/freelancers/~0188fb01c513f66907) - Upwork Freelance
 
 ## Tech Stack Experiences
-1. Frontend:
-   Nextjs, Redux Tool Kit, Reactjs, HTML, CSS, Adobe XD, Typescript/Javascript, Prime React, PrimeFlexCSS[Similar to Tailwind], Scss
+1. Frontend: Nextjs, Redux Tool Kit, Reactjs, HTML, CSS, Adobe XD, Typescript/Javascript, Prime React, PrimeFlexCSS[Similar to Tailwind], Scss
 
-2. Backend:
-   Python, Nodejs/Nestjs, FAST API, SQL Alchemy, TypeORM, Typescript/Javascript, Postgres, Alembic, ASP.NET, Entity Framework, .NET, Linux, SISH, Cloudflare, Parrallel Processing and GPU's, Redis,GraphQL, REST API's
+2. Backend: Python, Nodejs/Nestjs, FAST API, SQL Alchemy, TypeORM, Typescript/Javascript, Postgres, Alembic, ASP.NET, Entity Framework, .NET, Linux, SISH, Cloudflare, Parrallel Processing and GPU's, Redis, GraphQL, REST API's
    
-4. Cloud:   
-   Docker, Cloudflared, GCP, AWS, Azure
+3. Cloud Engineering: Docker, Cloudflare, GCP, AWS, Azure, SISH
 
-5. Blockchain:
-   Solidity, Remix, Clarity, Ethersjs, hardhat
+4. Blockchain: Solidity, Remix, Clarity, Ethersjs, hardhat
 
-6. Generative AI:
-   Langchain, Diffusion Pipelines, Pytorch
+5. Generative AI: Langchain, Diffusion Pipelines, Pytorch
 
-8. Testing:
-   Selenium, Robotframework, Postman
+6. Testing: Selenium, Robot Framework, Postman
 
 ## Resume
 [https://resume.eqanahmad.com](https://resume.eqanahmad.com)
 
-## Other Github Profiles[Companies]
+## Other GitHub Profiles[Companies]
 1. Stable Diffusion: https://github.com/EqanSDAPI
 2. Models Lab: https://github.com/eqanModelsLab
 
