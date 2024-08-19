@@ -24,12 +24,16 @@ Software Engineer using tools to automate life.
 2. Backend:
    Python, Nodejs/Nestjs, FAST API, SQL Alchemy, TypeORM, Typescript/Javascript, Postgres, Alembic, ASP.NET, Entity Framework, .NET, Linux, SISH, Cloudflare, Parrallel Processing and GPU's, Redis,GraphQL, REST API's
    
-4. Docker, Cloudflared, GCP, AWS, Azure
+4. Cloud:   
+   Docker, Cloudflared, GCP, AWS, Azure
 
-4. Blockchain:
+5. Blockchain:
    Solidity, Remix, Clarity, Ethersjs, hardhat
 
-5. Testing:
+6. Generative AI:
+   Langchain, Diffusion Pipelines, Pytorch
+
+8. Testing:
    Selenium, Robotframework, Postman
 
 ## Resume
