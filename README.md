@@ -8,6 +8,7 @@ Software Engineer using tools to automate life.
 4. Turing: https://matching.turing.com/developer-resume/e33b2811187a52e4c7f0b3c57b2444a52e92814da03b98
 5. Leetcode: https://leetcode.com/eqan/
 6. Hackerrank: https://www.hackerrank.com/eqanahmad123
+7. Youtube Channel: https://www.youtube.com/@eqanio
    
 ## Experiences
 1. [Meteo-In](https://meteo-in.com/) - Co-Founder Meteo In
