@@ -12,12 +12,13 @@ Software Engineer using tools to automate life.
    
 ## Experiences
 1. [Meteo-In](https://meteo-in.com/) - Co-Founder Meteo In
-2. [Qanoon AI](https://qanooni.ai/) - AI Engineer
-3. [Stable Diffusion](https://modelslab.com) - Cloud Computing and Full Stack Engineer - Python, Docker, OpenStack, Nextjs, Shell Scripting etc
-4. [Canadian College for Higher Studies](https://thecanadiancollege.ca/blockchain-technology-for-beginners-bootcamp/) - Blockchain Instructor
-5. [Microslush](https://microslush.com) - Associate Software Engineer - Blockchain, Full Stack Development
-6. [Fiverr](https://www.fiverr.com/users/eqanahmad/) - Fiverr Freelance
-7. [Upwork](https://www.upwork.com/freelancers/~0188fb01c513f66907) - Upwork Freelance
+2. [MVP Base](http://mvp.meteo-in.com/) - Software Engineering Manager
+3. [Qanoon AI](https://qanooni.ai/) - AI Engineer
+4. [Stable Diffusion](https://modelslab.com) - Cloud Computing and Full Stack Engineer - Python, Docker, OpenStack, Nextjs, Shell Scripting etc
+5. [Canadian College for Higher Studies](https://thecanadiancollege.ca/blockchain-technology-for-beginners-bootcamp/) - Blockchain Instructor
+6. [Microslush](https://microslush.com) - Associate Software Engineer - Blockchain, Full Stack Development
+7. [Fiverr](https://www.fiverr.com/users/eqanahmad/) - Fiverr Freelance
+8. [Upwork](https://www.upwork.com/freelancers/~0188fb01c513f66907) - Upwork Freelance
 
 ## Tech Stack Experiences
 1. Frontend: Nextjs, Redux Tool Kit, Reactjs, HTML, CSS, Adobe XD, Typescript/Javascript, Prime React, PrimeFlexCSS[Similar to Tailwind], Scss
