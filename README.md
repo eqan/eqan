@@ -42,7 +42,8 @@ Software Engineer using tools to automate life.
 
 ## Closed Source Projects:
 1. NUCES BLOCKED[A platform aimed to generate and decentralize verified academic portfolios worldwide][NEXT.JS - REACT - GRAPHQL - POSTGRES - TYPEORM - NEST.JS - SOLIDITY - REMIX - HARDHAT - POSTMAN - APPOLO - PYTHON - SELENIUM - IPFS - ETHERSPROJECT - VERCEL - REACT.PDF]: https://nuces-blocked-frontend.vercel.app/nuces-blocked/landing/
-2. GPU Lab[Cloud Computing Service From Scratch][NEXT.JS - REACT - REST API - POSTGRES - SQL ALchemy - Python - FAST API - Docker - Cloudflared - POSTMAN - AWS - Redis - Linux - Shell Scripting - Ansible - CI/CD - Sentry]: https://gpulab.ai/
+2. GPU Lab[Cloud Computing Service From Scratch][NEXT.JS - REACT - REST API - POSTGRES - SQL ALchemy - Python - FAST API - Docker - Cloudflared - POSTMAN - AWS - Redis - Linux - Shell Scripting - Ansible - CI/CD - Sentry - Alembic - WebSockets]: https://gpulab.ai/
+3. Qanooni AI[AI powered plugins for Lawyers by Lawyers][NEXT.JS - REACT - REST API - POSTGRES - SQL ALchemy - Python - FAST API- POSTMAN - AWS - Redis- CI/CD - Langchain - Alembic - Word Plugin - Outlook Plugin - Websockets]
 
 ## Support Me:
 1. Pateon: https://patreon.com/eqan
