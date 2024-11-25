@@ -45,6 +45,10 @@ Software Engineer using tools to automate life.
 2. GPU Lab[Cloud Computing Service From Scratch][NEXT.JS - REACT - REST API - POSTGRES - SQL ALchemy - Python - FAST API - Docker - Cloudflared - POSTMAN - AWS - Redis - Linux - Shell Scripting - Ansible - CI/CD - Sentry - Alembic - WebSockets]: https://gpulab.ai/
 3. Qanooni AI[AI powered plugins for Lawyers by Lawyers][NEXT.JS - REACT - REST API - POSTGRES - SQL ALchemy - Python - FAST API- POSTMAN - AWS - Redis- CI/CD - Langchain - Alembic - Word Plugin - Outlook Plugin - Websockets]
 
+
+## Open Source Projects:
+1. Open Compute[https://github.com/eqan/open-compute](https://github.com/eqan/open-compute): Open Source Cloud Compute Platform development alongside youtube videos on how to develop your own step by step.
+
 ## Support Me:
 1. Pateon: https://patreon.com/eqan
 2. Crypto[Tron USDT]: TU9zwfEAMKYsg5LfR4FbZnBjhHmC5vmeEE
