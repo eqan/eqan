@@ -47,7 +47,8 @@ Software Engineer using tools to automate life.
 
 
 ## Open Source Projects:
-1. Open Compute[https://github.com/eqan/open-compute](https://github.com/eqan/open-compute): Open Source Cloud Compute Platform development alongside youtube videos on how to develop your own step by step.
+1. [Open Compute](https://github.com/eqan/open-compute): Cloud Compute Platform development alongside youtube videos on how to develop your own step by step.
+2. [Material-Awesome](https://github.com/eqan/material-awesome): Desktop environment extremely optimized to 300 MB ram consumption and a beautiful UI to go with.
 
 ## Support Me:
 1. Pateon: https://patreon.com/eqan
