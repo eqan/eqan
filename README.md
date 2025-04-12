@@ -22,15 +22,15 @@ Software Engineer using tools to automate life.
 9. [Upwork](https://www.upwork.com/freelancers/~0188fb01c513f66907) - Upwork Freelance
 
 ## Tech Stack Experiences
-1. Frontend: Nextjs, Redux Tool Kit, Reactjs, HTML, CSS, Adobe XD, Typescript/Javascript, Prime React, PrimeFlexCSS[Similar to Tailwind], Scss
+1. Frontend: Nextjs, Redux Tool Kit, Reactjs, HTML, CSS, Adobe XD, Typescript/Javascript, Prime React, PrimeFlexCSS[Similar to Tailwind], Scss, OAuth
 
-2. Backend: Python, Nodejs/Nestjs, FAST API, SQL Alchemy, TypeORM, Typescript/Javascript, Postgres, Alembic, ASP.NET, Entity Framework, .NET, Linux, SISH, Cloudflare, Parrallel Processing and GPU's, Redis, GraphQL, REST API's
+2. Backend: Python, Nodejs/Nestjs, FAST API, SQL Alchemy, TypeORM, Typescript/Javascript, Postgres, Alembic, ASP.NET, Entity Framework, .NET, Linux, SISH, Cloudflare, Parrallel Processing and GPU's, Redis, GraphQL, REST API's, MS Office Suite APIs
    
 3. Cloud Engineering: Docker, Cloudflare, GCP, AWS, Azure, SISH
 
 4. Blockchain: Solidity, Remix, Clarity, Ethersjs, hardhat
 
-5. Generative AI: Langchain, Diffusion Pipelines, Pytorch
+5. Generative AI: Langchain, Diffusion Pipelines, Pytorch, PineCone(Vector DB)
 
 6. Testing: Selenium, Robot Framework, Postman
 
