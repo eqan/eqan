@@ -37,6 +37,9 @@ Software Engineer using tools to automate life.
 ## Resume
 [https://resume.eqanahmad.com](https://resume.eqanahmad.com)
 
+## Certifications:
+[IELTS C1 Level](https://media.licdn.com/dms/image/v2/D4D2DAQFBjCqX3dHKcw/profile-treasury-image-shrink_1280_1280/B4DZZZZyDDG8Ak-/0/1745256655851?e=1745866800&v=beta&t=ibPLDzdJqIw1Yhs-mqn3gba0ESb7VT-7_wMyM3FFGgI)
+
 ## Other GitHub Profiles[Companies]
 1. Stable Diffusion: https://github.com/EqanSDAPI
 2. Models Lab: https://github.com/eqanModelsLab
