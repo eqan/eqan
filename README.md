@@ -11,15 +11,13 @@ Software Engineer using tools to automate life.
 7. Youtube Channel: https://www.youtube.com/@eqanio
    
 ## Experiences
-1. [Meteo-In](https://meteo-in.com/) - Co-Founder Meteo In
-2. [MVP Base](http://mvp.meteo-in.com/) - Software Engineering Manager
-3. [Qanoon AI](https://qanooni.ai/) - AI Engineer
-4. [Stable Diffusion](https://modelslab.com) - Cloud Computing and Full Stack Engineer - Python, Docker, OpenStack, Nextjs, Shell Scripting etc
-5. [Canadian College for Higher Studies](https://thecanadiancollege.ca/blockchain-technology-for-beginners-bootcamp/) - Blockchain Instructor
-6. [Microslush](https://microslush.com) - Associate Software Engineer - Blockchain, Full Stack Development
-7. [Toptal](https://www.toptal.com/resume/eqan-ahmad) - Toptal Vetted Talent
-8. [Fiverr](https://www.fiverr.com/users/eqanahmad/) - Fiverr Freelance
-9. [Upwork](https://www.upwork.com/freelancers/~0188fb01c513f66907) - Upwork Freelance
+1. [Qanoon AI](https://qanooni.ai/) - AI Engineer
+2. [Stable Diffusion](https://modelslab.com) - Cloud Computing and Full Stack Engineer - Python, Docker, OpenStack, Nextjs, Shell Scripting etc
+3. [Canadian College for Higher Studies](https://thecanadiancollege.ca/blockchain-technology-for-beginners-bootcamp/) - Blockchain Instructor
+4. [Microslush](https://microslush.com) - Associate Software Engineer - Blockchain, Full Stack Development
+5. [Toptal](https://www.toptal.com/resume/eqan-ahmad) - Toptal Vetted Talent
+6. [Fiverr](https://www.fiverr.com/users/eqanahmad/) - Fiverr Freelance
+7. [Upwork](https://www.upwork.com/freelancers/~0188fb01c513f66907) - Upwork Freelance
 
 ## Tech Stack Experiences
 1. Frontend: Nextjs, Redux Tool Kit, Reactjs, HTML, CSS, Adobe XD, Typescript/Javascript, Prime React, PrimeFlexCSS[Similar to Tailwind], Scss, OAuth
@@ -53,6 +51,10 @@ Software Engineer using tools to automate life.
 ## Open Source Projects:
 1. [Open Compute](https://github.com/eqan/open-compute): Cloud Compute Platform development alongside youtube videos on how to develop your own step by step.
 2. [Material-Awesome](https://github.com/eqan/material-awesome): Desktop environment extremely optimized to 300 MB ram consumption and a beautiful UI to go with.
+
+## Contact Me(For MVP development, services or IT consultation):
+1. Email: eqan.ahmad123@gmail.com
+2. Meet: meet.eqanahmad.com
 
 ## Support Me:
 1. Pateon: https://patreon.com/eqan
