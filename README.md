@@ -4,11 +4,13 @@ Software Engineer using tools to automate life.
 ## Profiles
 1. Portfolio: https://eqanahmad.com/
 2. LinkedIn: https://www.linkedin.com/in/eqanahmad/
-3. Behance: https://www.behance.net/eqanahmad
-4. Turing: https://matching.turing.com/developer-resume/e33b2811187a52e4c7f0b3c57b2444a52e92814da03b98
-5. Leetcode: https://leetcode.com/eqan/
-6. Hackerrank: https://www.hackerrank.com/eqanahmad123
-7. Youtube Channel: https://www.youtube.com/@eqanio
+3. Toptal: https://www.toptal.com/resume/eqan-ahmad
+4. Youtube Channel: https://www.youtube.com/@eqanio
+5. Behance: https://www.behance.net/eqanahmad
+6. Turing: https://matching.turing.com/developer-resume/e33b2811187a52e4c7f0b3c57b2444a52e92814da03b98
+7. Leetcode: https://leetcode.com/eqan/
+8. Hackerrank: https://www.hackerrank.com/eqanahmad123
+
    
 ## Experiences
 1. [Qanoon AI](https://qanooni.ai/) - AI Engineer
