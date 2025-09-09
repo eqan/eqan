@@ -56,7 +56,7 @@ Software Engineer using tools to automate life.
 
 ## Contact Me(For MVP development, services or IT consultation):
 1. Email: eqan.ahmad123@gmail.com
-2. Meet: meet.eqanahmad.com
+2. Meet: [https://meet.eqanahmad.com](https://meet.eqanahmad.com)
 
 ## Support Me:
 1. Pateon: https://patreon.com/eqan
