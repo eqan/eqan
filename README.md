@@ -13,12 +13,13 @@ Software Engineer using tools to automate life.
 
    
 ## Experiences
-1. [Qanoon AI](https://qanooni.ai/) - AI Engineer
-2. [Stable Diffusion](https://modelslab.com) - Cloud Computing and Full Stack Engineer - Python, Docker, OpenStack, Nextjs, Shell Scripting etc
-3. [Microslush](https://microslush.com) - Associate Software Engineer - Blockchain, Full Stack Development
-4. [Toptal](https://www.toptal.com/resume/eqan-ahmad) - Toptal Vetted Talent
-5. [Fiverr](https://www.fiverr.com/users/eqanahmad/) - Fiverr Freelance
-6. [Upwork](https://www.upwork.com/freelancers/~0188fb01c513f66907) - Upwork Freelance
+1. [Staque AI](https://staque.io) - AI Engineer
+2. [Qanoon AI](https://qanooni.ai/) - AI Engineer
+3. [Stable Diffusion](https://modelslab.com) - Cloud Computing and Full Stack Engineer - Python, Docker, OpenStack, Nextjs, Shell Scripting etc
+4. [Microslush](https://microslush.com) - Associate Software Engineer - Blockchain, Full Stack Development
+5. [Toptal](https://www.toptal.com/resume/eqan-ahmad) - Toptal Vetted Talent
+6. [Fiverr](https://www.fiverr.com/users/eqanahmad/) - Fiverr Freelance
+7. [Upwork](https://www.upwork.com/freelancers/~0188fb01c513f66907) - Upwork Freelance
 
 ## Tech Stack Experiences
 1. Frontend: Nextjs, Redux Tool Kit, Reactjs, HTML, CSS, Adobe XD, Typescript/Javascript, Prime React, PrimeFlexCSS[Similar to Tailwind], Scss, OAuth
