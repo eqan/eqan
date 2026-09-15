@@ -8,8 +8,9 @@ Software Engineer using tools to automate life.
 4. Youtube Channel: https://www.youtube.com/@eqanio
 5. Behance: https://www.behance.net/eqanahmad
 6. Turing: https://matching.turing.com/developer-resume/e33b2811187a52e4c7f0b3c57b2444a52e92814da03b98
-7. Leetcode: https://leetcode.com/eqan/
-8. Hackerrank: https://www.hackerrank.com/eqanahmad123
+7. Neetcode: https://neetcode.io/user/IonicBlaze749
+8. Leetcode: https://leetcode.com/eqan/
+9. Hackerrank: https://www.hackerrank.com/eqanahmad123
 
    
 ## Experiences
