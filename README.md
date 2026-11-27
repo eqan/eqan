@@ -1,6 +1,9 @@
 ## Intro
 Software Engineer using tools to automate life.
 
+## Current Goal
+Learning Artificial Intelligent Robotics Field
+
 ## Profiles
 1. Portfolio: https://eqanahmad.com/
 2. LinkedIn: https://www.linkedin.com/in/eqanahmad/
